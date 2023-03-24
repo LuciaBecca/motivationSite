@@ -6,10 +6,13 @@ ACCOUNT
 
 POSSIBILITA la possibilità di inserire propri 
 - obiettivi
+    - sotto obiettivi
 - habit tracker
 - lista libri
 - lista video 
 - categorie
+
+
 
 
 
