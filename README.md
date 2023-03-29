@@ -13,6 +13,14 @@ POSSIBILITA la possibilità di inserire propri
 - categorie
 
 
+FRONT END TO DO
+- fare home
+- fare pagine
+- fare area personale
+
+
+
+
 
 
 
